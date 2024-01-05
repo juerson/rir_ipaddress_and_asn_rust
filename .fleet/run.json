@@ -1,0 +1,47 @@
+{
+    "configurations": [
+        {
+            "type": "cargo",
+            "name": "Cargo test",
+            "cargoArgs": [
+                "test"
+            ],
+        },
+        {
+            "type": "cargo",
+            "name": "Cargo run",
+            "cargoArgs": [
+                "run"
+            ],
+        },
+        {
+            "type": "cargo",
+            "name": "Cargo build --release",
+            "cargoArgs": [
+                "build",
+                "--release",
+                "--target",
+                "x86_64-pc-windows-msvc"
+            ],
+        },
+        {
+            "type": "cargo",
+            "name": "Cargo run --bin app1",
+            "cargoArgs": [
+                "run",
+                "--bin",
+                "app1"
+            ],
+        },
+        {
+            "type": "cargo",
+            "name": "Cargo run --bin app2",
+            "cargoArgs": [
+                "run",
+                "--bin",
+                "app2"
+            ],
+        },
+
+    ]
+}

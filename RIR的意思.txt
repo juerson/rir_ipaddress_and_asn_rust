@@ -1,0 +1,18 @@
+RIR（Regional Internet Registry）是负责管理和分配IP地址和自治系统（AS）编号的组织。目前，全球有五个主要的RIR，它们分别负责不同地理区域的IP地址和AS编号的分配。这五个RIR及其负责的区域如下：
+
+1. ARIN (American Registry for Internet Numbers): 北美地区，包括美国、加拿大和一些加勒比地区。
+https://ftp.ripe.net/pub/stats/arin/delegated-arin-extended-latest
+
+2. RIPE NCC (Réseaux IP Européens Network Coordination Centre): 欧洲、中东和中亚地区。
+https://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest
+
+3. APNIC (Asia-Pacific Network Information Centre): 亚太地区，包括亚洲、大洋洲和一些与亚太相关的地区。
+https://ftp.ripe.net/pub/stats/apnic/delegated-apnic-extended-latest
+
+4. LACNIC (Latin America and Caribbean Network Information Centre): 拉丁美洲和加勒比地区。
+https://ftp.ripe.net/pub/stats/lacnic/delegated-lacnic-extended-latest
+
+5. AfriNIC (African Network Information Centre): 非洲地区。
+https://ftp.ripe.net/pub/stats/afrinic/delegated-afrinic-extended-latest
+
+每个RIR都负责管理和分配与其地理区域相关联的IP地址和自治系统编号，以确保这些资源的合理分配和有效管理。
